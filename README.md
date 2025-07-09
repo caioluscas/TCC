@@ -11,7 +11,7 @@ Este repositório contém os arquivos principais do meu TCC (Trabalho de Conclus
 [🔗 TCC Caio Lucas final.pdf](TCC%20Caio%20Lucas%20final.pdf)
 
 📊 **Apresentação de Slides (PPTX)**  
-[🔗 Slides para apresentação (2).pptx](TCC%20apresenta%C3%A7%C3%A3o%20.pptx)
+[🔗 TCC apresentação.pptx](TCC%20apresenta%C3%A7%C3%A3o.pptx)
 
 ---
 
