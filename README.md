@@ -13,6 +13,9 @@ Este repositório contém os arquivos principais do meu TCC (Trabalho de Conclus
 📊 **Apresentação de Slides (PPTX)**  
 [🔗 TCC apresentação.pptx](TCC%20apresenta%C3%A7%C3%A3o.pptx)
 
+📊 **Apresentação de Slides (PDF)**  
+[🔗 TCC apresentação.pdf](TCC%20apresenta%C3%A7%C3%A3o.pptx)
+
 ---
 
 ## Sobre
